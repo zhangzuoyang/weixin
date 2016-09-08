@@ -3,13 +3,13 @@
 
 	error_reporting(E_ALL & ~E_NOTICE);
 
-	define('DB_HOST', 'localhost');
+	define('DB_HOST', 'rdsyvzbamyvzbam.mysql.rds.aliyuncs.com');
 
-	define('DB_USER', 'root');
+	define('DB_USER', 'wp_db');
 
-	define('DB_PWD', 'weilai');
+	define('DB_PWD', 'wpdb123');
 
-	define('DB_NAME', 'weixin');
+	define('DB_NAME', 'wp_db');
 
 	define('DB_PREFIX', 'wemall_');
 
